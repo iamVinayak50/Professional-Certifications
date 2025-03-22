@@ -31,7 +31,7 @@ Each folder contains certificates in PDF format with descriptive filenames for e
 | Microsoft | Azure Data Scientist Associate                                  | [View Certificate](Microsoft)    |
 | Coursera     | Data Science Course 2020: Complete Bootcamp                  | [View Certificate](Coursera)       |
 | Udemy     | Web Scraping in Python: Master the Fundamentals                 | [View Certificate](Udemy)         |
-| Excelr    | (Excelr Institute Data Scinece and Data Analyst Certification)  | (Others)                                                      |
+| Excelr    | (Excelr Institute Data Scinece and Data Analyst Certification)  | [View Certificate](Others)                                                     |
 
 ---
 
